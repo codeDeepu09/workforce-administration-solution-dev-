@@ -33,7 +33,7 @@ Deployment	Vercel / Netlify / Heroku / Render
 
 Clone the Repository
 
-git clone https://github.com/your-username/workforce-administration-solution.git
+git clone https://github.com/codeDeepu09/workforce-administration-solution-dev-/tree/main
 cd workforce-administration-solution
 
 
