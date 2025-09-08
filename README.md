@@ -90,3 +90,9 @@ Commit changes (git commit -m 'Add new feature')
 Push to your branch (git push origin feature-name)
 
 Submit a Pull Request
+
+📄 License
+This project is licensed under the MIT License.
+
+🔗 Drive : https://drive.google.com/drive/folders/1FtCmidclxsEoE3JevKe_ILAQ0Xg5RDBV?usp=sharing
+
